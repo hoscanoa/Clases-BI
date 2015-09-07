@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{D2ABAB84-BF74-430A-B69E-9DC6D40DDA17}") = "PSSAS_DemoV1", "PSSAS_DemoV1\PSSAS_DemoV1.dwproj", "{01ABD375-C472-4218-9A79-20DDA228F781}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01ABD375-C472-4218-9A79-20DDA228F781}.Development|Default.ActiveCfg = Development
+		{01ABD375-C472-4218-9A79-20DDA228F781}.Development|Default.Build.0 = Development
+		{01ABD375-C472-4218-9A79-20DDA228F781}.Development|Default.Deploy.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
